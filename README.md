@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sam
-- 👀 I’m interested in Machine Learning, Data Analysis, Mathematical Visualizations
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science/Machine Learning Projects
+- 👋 Hi, I’m Sam. I am a Data Scientist, Cyclist and Guitarist
+- 👀 I’m interested in Machine Learning, Data Analysis, and Data Visualizations
+- 💞️ I love learning new topics related to Data Science
 - 📫 How to reach me: Email me at samdwo300@gmail.com
 
 <!---
