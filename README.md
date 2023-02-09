@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam. I am a data scientist, cyclist and guitarist
-- 👀 I’m interested in Machine Learning, Data Analysis, and Data Visualizations
-- 💞️ I love learning new topics related to Data Science
+- 👀 I’m interested in machine learning, data analysis, and data visualizations
+- 💞️ I love learning new topics related to data science
 - 📬 Connect with me on LinkedIn @sam-dworetzky
 <!---
 samdwo300/samdwo300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
